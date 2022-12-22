@@ -73,3 +73,5 @@ def script():
 script()
 # that's all, nothing to fix and update
 # fixed len 
+#sfsd 
+print("LOL")
