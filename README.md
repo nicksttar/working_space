@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nicksttar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .../
+- 👋 Hi, I’m Nick.
+- 👀 I’m interested in Python devepment.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on idk.
+- 📫 How to reach me TG @nicksttar
