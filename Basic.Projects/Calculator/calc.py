@@ -19,7 +19,7 @@ class Calculator():
 
     def dell(self):
         if self.item1 == 0 and self.item2 == 0:
-            return "I love you"
+            return "Zero Division"
         return str(self.item1 / self.item2)
     def percent(self):
         pass
